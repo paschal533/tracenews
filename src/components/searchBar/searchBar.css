@@ -1,0 +1,26 @@
+.newsletter{
+    background-color: transparent;
+    border: none;
+    color: var(--main-font-color-dark);
+    cursor: pointer;
+    font-size: 1.6rem;
+    padding: 1px .6rem;
+    position: absolute;
+     
+    transform: translateY(-50%);
+    margin-left: 10.5rem;
+}
+
+.input{
+    border: 1px solid black;
+}
+.spinnerdivs{
+    height: 3vh;
+    width: 100%;
+  }
+
+  .spinners{
+    align-items: center;
+    place-items: center;
+    display: grid;
+  }

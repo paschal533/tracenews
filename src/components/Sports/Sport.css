@@ -1,0 +1,11 @@
+@media screen and (min-width: 900px){
+    .para {
+        font-size: 1.6rem;
+        margin-top: -43% !important;
+    }
+
+}
+.para {
+    font-size: 1.6rem;
+    margin-top: initial;
+}

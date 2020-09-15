@@ -1,0 +1,38 @@
+@media screen and (min-width: 900px){
+    .para {
+        font-size: 1.6rem;
+        margin-top: -43% !important;
+    }
+     
+    .imgy{
+        height: 400px !important;
+    }
+     
+    .image{
+        height: 400px !important;
+        width: 100%;
+    }
+    .imag{
+        height: 400px !important;
+        width: 100%;
+    }
+     
+     
+
+}
+.para {
+    font-size: 1.6rem;
+    margin-top: initial;
+}
+.image{
+    height: 300px !important;
+    width: 100%;
+}
+.button{
+    margin: 2px !important;
+}
+.imag{
+    height: 300px ;
+    width: 100%;
+}
+ 
